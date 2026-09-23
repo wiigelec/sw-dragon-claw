@@ -32,5 +32,15 @@
     "human_contribution": "Humanity's distinctive contribution to the relationship with the dragon realm was creative expression, including art, music, painting, sculpture, story, and related forms of creation.",
     "reciprocity": "The relationship was reciprocal: dragons contributed knowledge and principles of non-dominating governance, while humans contributed forms of creative expression unavailable in the dragon realm.",
     "utopia_boundary": "The Age of Expression is not established as a utopia. Peaceful human-dragon relations and human flourishing do not imply the absence of ordinary human disagreement, failure, conflict, or wrongdoing."
+  },
+  "post_sundering": {
+    "north": {
+      "economic_condition": "The northern lands are poor, with limited opportunity and widespread material decline.",
+      "infrastructure": "Public infrastructure is deteriorating and visibly neglected.",
+      "governance": "Northern governance is apathetic and corrupt, with public institutions serving or enriching a small connected minority while failing many ordinary people.",
+      "public_experience": "Many people experience governance less as protection or stewardship than as abandonment.",
+      "expression": "Artistic and cultural expression remains widespread, but much of it emerges from frustration, despair, self-medication, and the need to make meaning within conditions people have little power to change.",
+      "age_of_expression_distortion": "Northern expression is not the flourishing expression of the Age of Expression. It is often an outpouring of pain from a society in which the conditions that once supported healthy human expression have decayed."
+    }
   }
 }
