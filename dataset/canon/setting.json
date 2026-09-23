@@ -41,6 +41,16 @@
       "public_experience": "Many people experience governance less as protection or stewardship than as abandonment.",
       "expression": "Artistic and cultural expression remains widespread, but much of it emerges from frustration, despair, self-medication, and the need to make meaning within conditions people have little power to change.",
       "age_of_expression_distortion": "Northern expression is not the flourishing expression of the Age of Expression. It is often an outpouring of pain from a society in which the conditions that once supported healthy human expression have decayed."
+    },
+    "south": {
+      "government": "The southern lands are governed by a powerful theocracy.",
+      "doctrine": "The dominant southern religion teaches that the Age of Expression was an unnatural alliance between humanity and evil metaphysical beings, and that separation from the dragon realm restored proper human order.",
+      "economic_condition": "The South is economically successful and materially prosperous.",
+      "cities_and_infrastructure": "Southern cities are expansive, clean, orderly, and supported by maintained infrastructure and exquisite architecture.",
+      "education": "Education is widespread and highly developed.",
+      "righteousness_claim": "Southern society treats its visible prosperity, order, education, and urban achievement—especially in contrast with the impoverished and deteriorating North—as evidence of the righteousness of its theocratic order.",
+      "expression": "Artistic achievement remains highly developed, but expression has been transformed into exhibit: technically accomplished, prestigious, and beautiful, yet constrained by doctrine and largely severed from personal emotional truth.",
+      "age_of_expression_distortion": "The South preserves the outward refinement and achievement of culture while rejecting the free, emotionally authentic expression that defined the Age of Expression."
     }
   }
 }
