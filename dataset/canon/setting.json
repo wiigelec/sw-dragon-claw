@@ -36,11 +36,11 @@
   "post_sundering": {
     "geography": {
       "serath": {
-        "terrain": "The Serath are dominated by broad fertile valleys and productive agricultural country.",
+        "terrain": "Serath is dominated by broad fertile valleys and productive agricultural country.",
         "settlement_pattern": "The geography supports dense settlement, agricultural surplus, expansive cities, and large-scale maintained infrastructure."
       },
       "avaren": {
-        "terrain": "The Avaren are a more broken landscape of high desert, forest, uplands, rugged valleys, and widely separated settlements.",
+        "terrain": "Avaren is a more broken landscape of high desert, forest, uplands, rugged valleys, and widely separated settlements.",
         "settlement_pattern": "The geography supports a more dispersed population and makes transportation, infrastructure, and public investment more difficult and expensive."
       },
       "causal_boundary": "Geography amplifies the post-Sundering economic and institutional contrast between Avaren and Serath, but does not by itself explain Avaren's poverty or Serath's prosperity. Governance and institutional choices remain consequential."
@@ -48,7 +48,7 @@
     "avaren": {
       "regional_identity": "Avaren is the northern post-Sundering region.",
       "people": "Its people are the Avareni.",
-      "economic_condition": "The Avaren are poor, with limited opportunity and widespread material decline.",
+      "economic_condition": "Avaren is poor, with limited opportunity and widespread material decline.",
       "infrastructure": "Public infrastructure is deteriorating and visibly neglected.",
       "governance": "Avaren governance is apathetic and corrupt, with public institutions serving or enriching a small connected minority while failing many ordinary people.",
       "public_experience": "Many people experience governance less as protection or stewardship than as abandonment.",
@@ -58,7 +58,7 @@
     "serath": {
       "regional_identity": "Serath is the southern post-Sundering region.",
       "people": "Its people are the Serathi.",
-      "government": "The Serath are governed by a powerful theocracy.",
+      "government": "Serath is governed by a powerful theocracy.",
       "doctrine": "The dominant southern religion teaches that the Age of Expression was an unnatural alliance between humanity and evil metaphysical beings, and that separation from the dragon realm restored proper human order.",
       "economic_condition": "Serath is economically successful and materially prosperous.",
       "cities_and_infrastructure": "Serathi cities are expansive, clean, orderly, and supported by maintained infrastructure and exquisite architecture.",
