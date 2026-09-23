@@ -51,6 +51,17 @@
       "righteousness_claim": "Southern society treats its visible prosperity, order, education, and urban achievement—especially in contrast with the impoverished and deteriorating North—as evidence of the righteousness of its theocratic order.",
       "expression": "Artistic achievement remains highly developed, but expression has been transformed into exhibit: technically accomplished, prestigious, and beautiful, yet constrained by doctrine and largely severed from personal emotional truth.",
       "age_of_expression_distortion": "The South preserves the outward refinement and achievement of culture while rejecting the free, emotionally authentic expression that defined the Age of Expression."
+    },
+    "geography": {
+      "south": {
+        "terrain": "The southern lands are dominated by broad fertile valleys and productive agricultural country.",
+        "settlement_pattern": "The geography supports dense settlement, agricultural surplus, expansive cities, and large-scale maintained infrastructure."
+      },
+      "north": {
+        "terrain": "The northern lands are a more broken landscape of high desert, forest, uplands, rugged valleys, and widely separated settlements.",
+        "settlement_pattern": "The geography supports a more dispersed population and makes transportation, infrastructure, and public investment more difficult and expensive."
+      },
+      "causal_boundary": "Geography amplifies the post-Sundering economic and institutional contrast between North and South, but does not by itself explain northern poverty or southern prosperity. Governance and institutional choices remain consequential."
     }
   }
 }
