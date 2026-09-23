@@ -1,1 +1,36 @@
-{}
+{
+  "drakonys": {
+    "pre_sundering": {
+      "physical_realm": "Drakonys is the physical human world.",
+      "undivided_state": "Before the Sundering, Drakonys was not divided by the later Northland/Southland schism."
+    }
+  },
+  "dragon_realm": {
+    "nature": "The dragon realm is metaphysical and distinct from the physical human world of Drakonys.",
+    "manifestation_in_drakonys": {
+      "form": "The dragon realm manifested physically within Drakonys through the Dragon Family.",
+      "members": [
+        "Dragon Mother",
+        "Dragon Father",
+        "Deesa",
+        "Deesa's sister"
+      ]
+    },
+    "creative_difference": "Forms of embodied human creative expression such as art, music, painting, sculpture, and story do not naturally exist within the dragon realm."
+  },
+  "gate": {
+    "pre_sundering_role": "Before the Sundering, the Gate connected Drakonys and the metaphysical dragon realm and supported peaceful relationship and reciprocal exchange between them.",
+    "governance_boundary": "The relationship between humans and dragons was not based on dragon rule over humanity or human ownership of dragon power.",
+    "mechanics_status": "The complete mechanics and requirements of the Gate are not yet established."
+  },
+  "age_of_expression": {
+    "name": "Age of Expression",
+    "period": "The Age of Expression is the pre-Sundering era of peaceful relationship between humanity and the dragon realm.",
+    "dragon_contribution": "Through the Dragon Family, dragons taught humanity principles of governance without control.",
+    "governance_without_control": "Governance without control does not mean the absence of government, law, leadership, or social structure. Its defining principle is that authority creates conditions in which people can act, develop, cooperate, and express themselves without coercive domination.",
+    "human_flourishing": "Human societies flourished under these principles.",
+    "human_contribution": "Humanity's distinctive contribution to the relationship with the dragon realm was creative expression, including art, music, painting, sculpture, story, and related forms of creation.",
+    "reciprocity": "The relationship was reciprocal: dragons contributed knowledge and principles of non-dominating governance, while humans contributed forms of creative expression unavailable in the dragon realm.",
+    "utopia_boundary": "The Age of Expression is not established as a utopia. Peaceful human-dragon relations and human flourishing do not imply the absence of ordinary human disagreement, failure, conflict, or wrongdoing."
+  }
+}
